@@ -1,5 +1,5 @@
 # Stas
-OpenAp
+bitc: 3KVeXrxtZMjxHJJ5Em4vfVdJooaQzTVab1
       <AdditionalOptions>/utf-8 /std:c++17 %(AdditionalOptions)</AdditionalOptions>
       <DisableSpecificWarnings>4018;4221;4244;4267;4334;4715;4805;4834</DisableSpecificWarnings>
       <TreatWarningAsError>true</TreatWarningAsError>
@@ -8,3 +8,4 @@ OpenAp
       <AdditionalIncludeDirectories>..\..\src;..\..\src\univalue\include;..\..\src\secp256k1\include;..\..\src\leveldb\include;..\..\src\leveldb\helpers\memenv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
+3KVeXrxtZMjxHJJ5Em4vfVdJooaQzTVab1
